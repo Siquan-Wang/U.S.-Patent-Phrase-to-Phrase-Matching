@@ -10,7 +10,7 @@ In this competition, the task is to train machine learning models on a novel sem
 
 •Refined downstream structures including both 1D CNN and multi-head attention model on contextualized embedding from pretrained models with increasing learning rates, and applied warming-up and multi-sample dropout for better generalization
 
-•	Used adversarial weight perturbation, fast gradient sign method and pseudo label generation for overfitting reduction and aggerated final results with different loss using ensemble methods based on stratified k-fold cross validation, and ranked top 9% on Kaggle
+•	Used adversarial weight perturbation, fast gradient sign method and pseudo label generation for overfitting reduction and aggerated final results with different loss using ensemble methods based on stratified k-fold cross validation, and ranked as top 9% on Kaggle
 
 
 ## Getting Started
